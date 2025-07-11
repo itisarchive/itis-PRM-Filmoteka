@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movie_count">Liczba filmów</string>
+    <string name="edit_movie">Edytuj film</string>
+    <string name="add_movie">Dodaj film</string>
+    <string name="title">Tytuł</string>
+    <string name="category">Kategoria</string>
+    <string name="save">Zapisz</string>
+    <string name="release_date">Data premiery</string>
+    <string name="select_date">Wybierz datę</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Anuluj</string>
+    <string name="error_title">Tytuł nie może być pusty</string>
+    <string name="error_release_date">Data premiery nie może być późniejsza niż 2 lata od teraz</string>
+    <string name="error_rating">Dla obejrzanego filmu ocena nie może być pusta</string>
+    <string name="error_unknown">Film nie może zostać zapisany</string>
+    <string name="watched">Obejrzane</string>
+    <string name="rating">Ocena</string>
+    <string name="comment">Komentarz</string>
+    <string name="poster">Plakat</string>
+    <string name="not_watched">Nieobejrzane</string>
+    <string name="star">Gwiazdka</string>
+    <string name="loading">Ładowanie szczegółów filmu…</string>
+    <string name="film">Film fabularny</string>
+    <string name="series">Serial</string>
+    <string name="documentary">Dokument</string>
+    <string name="all">Wszystkie</string>
+    <string name="filter">Filtr</string>
+    <string name="status">Status</string>
+    <string name="home">Ekran główny</string>
+    <string name="delete_question">Czy jesteś pewien że chcesz usunąć film</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="delete_title">Usuń film</string>
+</resources>
